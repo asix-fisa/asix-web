@@ -16,7 +16,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-     <img src="../assets/images/team/luca-baldini.png" alt="LB"
+     <img src="assets/images/team/luca-baldini.png" alt="LB"
           class="team-photo">
     </div>
     <h3>Luca Baldini</h3>
@@ -26,7 +26,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-      <img src="../assets/images/team/ronaldo-bellazzini.jpg" alt="RB"
+      <img src="assets/images/team/ronaldo-bellazzini.jpg" alt="RB"
            class="team-photo">
     </div>
     <h3>Ronaldo Bellazzini</h3>
@@ -36,7 +36,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-      <img src="../assets/images/team/luca-latronico.jpeg" alt="LL"
+      <img src="assets/images/team/luca-latronico.jpeg" alt="LL"
            class="team-photo">
     </div>
     <h3>Luca Latronico</h3>
@@ -46,7 +46,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-      <img src="../assets/images/team/massimo-minuti.jpg" alt="MM"
+      <img src="assets/images/team/massimo-minuti.jpg" alt="MM"
            class="team-photo">
     </div>
     <h3>Massimo Minuti</h3>
@@ -56,7 +56,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-      <img src="../assets/images/team/carmelo-sgro.jpg" alt="CS"
+      <img src="assets/images/team/carmelo-sgro.jpg" alt="CS"
            class="team-photo">
     </div>
     <h3>Carmelo Sgrò</h3>
@@ -73,7 +73,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-     <img src="../assets/images/team/juan-sebastian-hincapie-tarquino.jpg" alt="JSHT"
+     <img src="assets/images/team/juan-sebastian-hincapie-tarquino.jpg" alt="JSHT"
            class="team-photo">
     </div>
     <h3>J. S. Hincapie Tarquino</h3>
@@ -83,7 +83,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-     <img src="../assets/images/team/eleonora-ravera.png" alt="ER"
+     <img src="assets/images/team/eleonora-ravera.png" alt="ER"
           class="team-photo">
     </div>
     <h3>Eleonora Ravera</h3>
@@ -100,7 +100,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-     <img src="../assets/images/team/augusto-cattafesta.jpg" alt="AC"
+     <img src="assets/images/team/augusto-cattafesta.jpg" alt="AC"
           class="team-photo">
     </div>
     <h3>Augusto Cattafesta</h3>
@@ -108,7 +108,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-     <img src="../assets/images/team/chiara-tomaiuolo.jpeg" alt="CT"
+     <img src="assets/images/team/chiara-tomaiuolo.jpeg" alt="CT"
           class="team-photo">
     </div>
     <h3>Chiara Tomaiuolo</h3>
