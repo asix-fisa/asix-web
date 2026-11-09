@@ -56,7 +56,7 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-      <img src="../assets/images/team/carmelo=sgro.jpg" alt="CS"
+      <img src="../assets/images/team/carmelo-sgro.jpg" alt="CS"
            class="team-photo">
     </div>
     <h3>Carmelo Sgrò</h3>
@@ -73,22 +73,22 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 
   <div class="team-card">
     <div class="team-photo-wrapper">
-     <img src="../assets/images/team/augusto-cattafesta.png" alt="AC"
-          class="team-photo">
-    </div>
-    <h3>Augusto Cattafesta</h3>
-    <p class="team-affiliation">University of Pisa</p>
-    <p class="team-role">Simulation and reconstruction software</p>
-  </div>
-
-  <div class="team-card">
-    <div class="team-photo-wrapper">
-      <img src="../assets/images/team/.jpg" alt="JSHT"
+     <img src="../assets/images/team/juan-sebastian-hincapie-tarquino.jpg" alt="JSHT"
            class="team-photo">
     </div>
     <h3>J. S. Hincapie Tarquino</h3>
     <p class="team-affiliation">University of Trento</p>
     <p class="team-role">Detector characterization and test</p>
+  </div>
+
+  <div class="team-card">
+    <div class="team-photo-wrapper">
+     <img src="../assets/images/team/eleonora-ravera.png" alt="ER"
+          class="team-photo">
+    </div>
+    <h3>Eleonora Ravera</h3>
+    <p class="team-affiliation">INFN Pisa</p>
+    <p class="team-role">Simulation and reconstruction software</p>
   </div>
 
 </div>
@@ -97,6 +97,14 @@ Pixel Detectors for the NASA-ASI Imaging X-ray Polarimetry Explorer (IXPE).
 ## Past collaborators
 
 <div class="team-grid">
+
+  <div class="team-card">
+    <div class="team-photo-wrapper">
+     <img src="../assets/images/team/augusto-cattafesta.jpg" alt="AC"
+          class="team-photo">
+    </div>
+    <h3>Augusto Cattafesta</h3>
+  </div>
 
   <div class="team-card">
     <div class="team-photo-wrapper">
